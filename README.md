@@ -48,34 +48,34 @@
 ## Screenshots
 
 ### 1. Room Overview
-![Room Overview](screenshots/01-Room-Overview.png)
+![Room Overview](screenshots/01-SQL-Fundamentals-Room-Overview.png)
 
 ### 2. Virtual Environment
-![Virtual Environment](screenshots/02-Virtual-Environment.png)
+![Virtual Environment](screenshots/02-SQL-Virtual-Environment-Setup.png)
 
 ### 3. Database 101
-![Database 101](screenshots/03-Database-101.png)
+![Database 101](screenshots/03-SQL-Database-101.png)
 
-### 4. Database Questions Completed
-![Database Questions Completed](screenshots/04-Database-Questions-Completed.png)
+### 4. Database Task
+![Database Task](screenshots/04-SQL-Task-Database-Flag.png)
 
 ### 5. Database Task Completed
-![Database Task Completed](screenshots/05-Database-Task-Completed.png)
+![Database Task Completed](screenshots/05-SQL-completed.png)
 
-### 6. CRUD Operations Completed
-![CRUD Operations Completed](screenshots/06-CRUD-Operations-Completed.png)
+### 6. CRUD Operations
+![CRUD Operations](screenshots/06-SQL-CRUD-Operation-Answers-Correct.png)
 
-### 7. SQL Clauses Completed
-![SQL Clauses Completed](screenshots/07-SQL-Clauses-Completed.png)
+### 7. SQL Clauses
+![SQL Clauses](screenshots/07-SQL-Clauses-Completed.png)
 
-### 8. SQL Operators Completed
-![SQL Operators Completed](screenshots/08-SQL-Operators-Completed.png)
+### 8. SQL Operators
+![SQL Operators](screenshots/08-SQL-Operators-Completed.png)
 
 ### 9. SQL Functions Challenge
-![SQL Functions Challenge](screenshots/09-SQL-Functions-Challenge.png)
+![SQL Functions Challenge](screenshots/09-SQL-Functions-Challenge-Completed.png)
 
 ### 10. Room Completed (100%)
-![Room Completed](screenshots/10-Room-Completed-100-Percent.png)
+![Room Completed](screenshots/10-SQL-Fundamentals-Completed.png)
 ---
 
 ## Key Takeaways
