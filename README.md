@@ -47,64 +47,84 @@
 
 ## Screenshots
 
-### 1. SQL Fundamentals Room Overview
+## 1. SQL Fundamentals Room Overview
 
-![Room Overview](01_SQL_Fundamentals_Room_Overview.png)
+Introduced the SQL Fundamentals room and prepared the MySQL AttackBox environment.
 
----
-
-### 2. SQL Virtual Environment Setup
-
-![Virtual Environment](02_SQL_Virtual_Environment_Setup.png)
+![01_SQL_Fundamentals_Room_Overview](screenshots/01_SQL_Fundamentals_Room_Overview.png)
 
 ---
 
-### 3. SQL Database Setup
+## 2. SQL Virtual Environment Setup
 
-![Database Setup](03_SQL_Database_Setup.png)
+Configured and verified the AttackBox environment for executing SQL queries.
 
----
-
-### 4. SQL Table Creation
-
-![Table Creation](04_SQL_Table_Creation.png)
+![02_SQL_Virtual_Environment_Setup](screenshots/02_SQL_Virtual_Environment_Setup.png)
 
 ---
 
-### 5. Database Flag Challenge
+## 3. SQL Database Setup
 
-![Database Flag](05_Task_4_Database_Flag.png)
+Connected to MySQL, explored available databases, and selected the appropriate working database.
 
----
-
-### 6. CRUD Operations
-
-![CRUD Operations](06-CRUD-Operation-Answers-Correct.png)
+![03_SQL_Database_Setup](screenshots/03_SQL_Database_Setup.png)
 
 ---
 
-### 7. SQL Clauses
+## 4. SQL Table Creation
 
-![SQL Clauses](07-SQL-Clauses-Completed.png)
+Created tables using SQL statements and defined columns, data types, primary keys, and constraints.
 
----
-
-### 8. SQL Operators
-
-![SQL Operators](08-SQL-Operators-Completed.png)
+![04_SQL_Table_Creation](screenshots/04_SQL_Table_Creation.png)
 
 ---
 
-### 9. SQL Functions Challenge
+## 5. Task 4 Database Flag
 
-![SQL Functions](09_SQL_Functions_Challenge_Completed.png)
+Completed the database enumeration challenge by locating and retrieving the required TryHackMe flags.
+
+![05_Task_4_Database_Flag](screenshots/05_Task_4_Database_Flag.png)
 
 ---
 
-### 10. Room Completion
+## 6. CRUD Operations
 
-![Completion](10_SQL_Fundamentals_Completed.png)
+Performed Create, Read, Update, and Delete operations while manipulating database records.
 
+![06-CRUD-Operation-Answers-Correct](screenshots/06-CRUD-Operation-Answers-Correct.png)
+
+---
+
+## 7. SQL Clauses
+
+Practiced filtering, sorting, grouping, and querying records using SQL clauses including WHERE, DISTINCT, GROUP BY, ORDER BY, and HAVING.
+
+![07-SQL-Clauses-Completed](screenshots/07-SQL-Clauses-Completed.png)
+
+---
+
+## 8. SQL Operators
+
+Used SQL logical and comparison operators to retrieve records matching specific conditions.
+
+![08-SQL-Operators-Completed](screenshots/08-SQL-Operators-Completed.png)
+
+---
+
+## 9. SQL Functions Challenge
+
+Applied SQL functions including LENGTH(), COUNT(), SUM(), MIN(), MAX(), CONCAT(), and GROUP_CONCAT() to analyze and summarize database information.
+
+![09_SQL_Functions_Challenge_Completed](screenshots/09_SQL_Functions_Challenge_Completed.png)
+
+---
+
+## 10. SQL Fundamentals Completed
+
+Successfully completed the TryHackMe SQL Fundamentals room.
+
+![10_SQL_Fundamentals_Completed](screenshots/10_SQL_Fundamentals_Completed.png)
+---
 ---
 
 ## Key Takeaways
